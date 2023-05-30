@@ -1,4 +1,4 @@
 My name is Santy
 I originally was born in Colombia, and I currently live in Colombia
-I´m 35
-I´m aiming to learn Java backend development
+I´m 35 years old
+I´m aiming to learn Java backend development, and pursuing a career as Software Developer
