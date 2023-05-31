@@ -5,3 +5,11 @@ main {
     margin: 1px;
     border-color: deeppink;
 }
+
+.header {
+    background-color: blue;
+    font-size: larger;
+    color: beige;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
